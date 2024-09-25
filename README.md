@@ -5,6 +5,9 @@ Your project's description...
 - Preview: https://main--{repo}--{owner}.aem.page/
 - Live: https://main--{repo}--{owner}.aem.live/
 
+- https://main--webdevjen--sayurihanki.aem.page/
+- https://main--webdevjen--sayurihanki.aem.live/
+
 ## Installation
 
 ```sh
